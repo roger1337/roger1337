@@ -1,8 +1,8 @@
 ### Hi there 👋
-> Languages: Java <br>
 
 Currently interested in low-level programming. <br>
-Have recently made the decision to focus on open-source.
+Have recently made the decision to focus on open-source. <br>
+> Languages: Java 
 
 <!--
 **roger1337/roger1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
