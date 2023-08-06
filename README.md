@@ -1,5 +1,6 @@
 ### Hi there 👋
-Interested in low-level programming. <br>
+Java
+Currently interested in low-level programming. <br>
 Have recently made the decision to focus on open-source.
 
 <!--
