@@ -1,5 +1,5 @@
 ### Hi there 👋
-Interested in low-level programming.
+Interested in low-level programming. \n
 Have recently made the decision to focus on open-source.
 
 <!--
