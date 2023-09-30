@@ -2,7 +2,7 @@
 
 Have recently made the decision to focus on open-source. <br>
 My biggest projects are private. <br>
-> Languages: Java 
+> Languages: Java, HTML/CSS/JS, Learning C++ & ASM
 
 <!--
 **roger1337/roger1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
