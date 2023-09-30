@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Currently interested in low-level programming. <br>
 Have recently made the decision to focus on open-source. <br>
+My biggest projects are private. <br>
 > Languages: Java 
 
 <!--
