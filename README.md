@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Have recently made the decision to focus on open-source. <br>
-My biggest projects are private. <br>
 > Languages: Java, HTML/CSS/JS, Learning C++ & ASM
 
 <!--
